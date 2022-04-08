@@ -16,11 +16,11 @@
 <br>
 <br>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sambitraze" alt="profile vist counter" /> </p>  
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=nisthar" alt="profile vist counter" /> </p>  
 
-![sambitraze's github stats](https://github-readme-stats.vercel.app/api?username=sambitraze&count_private=true&show_icons=true&theme=tokyonight)
+![nisthar's github stats](https://github-readme-stats.vercel.app/api?username=nisthar&count_private=true&show_icons=true&theme=tokyonight)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sambitraze&theme=tokyonight)](https://github.com/sambitraze/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nisthar&theme=tokyonight)](https://github.com/nisthar/github-readme-stats)
 
 
 Here are some ideas to get you started:
