@@ -1,5 +1,6 @@
-### Hi there 👋
-
+<h3>Hi 👋 I am Nisthar!</h3>
+<a href="https://www.linkedin.com/in/nisthar-k-019609ba/" target="_blank" rel="nofollow"><img align="right" width="23rem" src="https://github.com/wdgisele/wdgisele/blob/main/assets/linkedin.png" alt="LinkedIn: /in/nisthar-k-019609ba/"/></a>
+---
 ### Languages and Tools:
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
@@ -17,7 +18,7 @@
 <br>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nisthar" alt="profile vist counter" /> </p>  
-
+---
 <details>
   <summary>🚀 <b>Skills</b>:</summary>
   <br/>
