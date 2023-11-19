@@ -22,7 +22,7 @@
 
 ---
 
-<details>
+<details open>
   <summary>🚀 <b>Skills</b>:</summary>
   <br/>
   <p align="center">
