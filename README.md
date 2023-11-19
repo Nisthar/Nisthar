@@ -1,7 +1,6 @@
 <h3>Hi 👋 I am Nisthar!</h3>
 <a href="https://www.linkedin.com/in/nisthar-k-019609ba/" target="_blank" rel="nofollow"><img align="right" width="23rem" src="https://github.com/wdgisele/wdgisele/blob/main/assets/linkedin.png" alt="LinkedIn: /in/nisthar-k-019609ba/"/></a>
 
----
 
 ### Languages and Tools:
 
@@ -44,6 +43,8 @@
 ![nisthar's github stats](https://github-readme-stats.vercel.app/api?username=nisthar&count_private=true&show_icons=true&theme=tokyonight)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nisthar&theme=tokyonight)](https://github.com/nisthar/github-readme-stats)
+
+---
 
 
 Here are some ideas to get you started:
